@@ -1,2 +1,0 @@
-# BotWaNiuber
-BOT WA
